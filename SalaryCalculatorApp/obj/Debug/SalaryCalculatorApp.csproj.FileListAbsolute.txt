@@ -1,0 +1,9 @@
+E:\.NET Web App(Batch-4)\02-05-2015\SalaryCalculatorApp\SalaryCalculatorApp\bin\Debug\SalaryCalculatorApp.exe.config
+E:\.NET Web App(Batch-4)\02-05-2015\SalaryCalculatorApp\SalaryCalculatorApp\bin\Debug\SalaryCalculatorApp.exe
+E:\.NET Web App(Batch-4)\02-05-2015\SalaryCalculatorApp\SalaryCalculatorApp\bin\Debug\SalaryCalculatorApp.pdb
+E:\.NET Web App(Batch-4)\02-05-2015\SalaryCalculatorApp\SalaryCalculatorApp\obj\Debug\SalaryCalculatorApp.csprojResolveAssemblyReference.cache
+E:\.NET Web App(Batch-4)\02-05-2015\SalaryCalculatorApp\SalaryCalculatorApp\obj\Debug\SalaryCalculatorApp.SalaryCalculatorUI.resources
+E:\.NET Web App(Batch-4)\02-05-2015\SalaryCalculatorApp\SalaryCalculatorApp\obj\Debug\SalaryCalculatorApp.Properties.Resources.resources
+E:\.NET Web App(Batch-4)\02-05-2015\SalaryCalculatorApp\SalaryCalculatorApp\obj\Debug\SalaryCalculatorApp.csproj.GenerateResource.Cache
+E:\.NET Web App(Batch-4)\02-05-2015\SalaryCalculatorApp\SalaryCalculatorApp\obj\Debug\SalaryCalculatorApp.exe
+E:\.NET Web App(Batch-4)\02-05-2015\SalaryCalculatorApp\SalaryCalculatorApp\obj\Debug\SalaryCalculatorApp.pdb
